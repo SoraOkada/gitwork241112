@@ -4,4 +4,5 @@
 
 こんにちは、私の名前は岡田です。
 hello
-add,status,commit,log, third
+add,status,commit,log, thirid
+書き加えてから一連の操作,4th
