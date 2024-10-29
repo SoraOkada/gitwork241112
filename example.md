@@ -4,3 +4,4 @@
 
 こんにちは、私の名前は岡田です。
 hello
+add,status,commit,log, third
